@@ -4,8 +4,8 @@ layout: page
 ---
 
 ### Journals
-- Madhavan, H. (2022) Integration of a Heterogeneous Medical Tradition: Some reflections from Sowa Rigpa in India, TRADITIONAL MEDICINE REVIEW, Vol. 2, No. 2, October, 29-40
-- Madhavan, H. (2021) La pandémie de Covid-19 en Inde: peut-on encore parler du modèle Kerala? (in French), JOURNAL MOUVEMENTS, 78-91.
+- Madhavan, H. (2022) Integration of a Heterogeneous Medical Tradition: Some reflections from Sowa Rigpa in India, *TRADITIONAL MEDICINE REVIEW*, Vol. 2, No. 2, October, 29-40
+- Madhavan, H. (2021) La pandémie de Covid-19 en Inde: peut-on encore parler du modèle Kerala? (in French), *JOURNAL MOUVEMENTS*, 78-91.
 - Madhavan, H. and Gaudillier, J.P. (2020) 'Reformulation and Appropriation of Traditional knowledge in Industrial Ayurveda: The Trajectory of Jeevani', EAST ASIAN SCIENCE, TECHNOLOGY AND SOCIETY 14:4, 603-621.
 - Kloos, S., Madhavan, H, Blaikie, C., Tidwell, T. & Cuomu, M. (2020), 'The Transnational Sowa Rigpa Industry in Asia: New Perspectives on an Emerging Economy', SOCIAL SCIENCE AND MEDICINE, 245.
 - Rahman, M H; Singh, A; Madhavan, H (2019), Disability- based disparity in outpatient health system responsiveness among the older adults in low to upper middle income countries, HEALTH POLICY AND PLANNING, Vol. 34, Issues 3, March, P 141-150.
